@@ -1,0 +1,20 @@
+{
+  "training" : [
+    {
+      "muscle":"Build Muscle Training",
+      "description":"On this program you will have plenty exercise what will need to be done in gym"
+    },
+    {
+      "muscle":"Outdoor Training",
+      "description":"This training style will let you to can go outside and take fresh air"
+    },
+    {
+      "muscle":"Indoor Training",
+      "description":"We will have some training here to help you"
+    },
+    {
+      "muscle":"Insanity Training",
+      "description":"We will have some training here to help you"
+    }
+  ]
+}
