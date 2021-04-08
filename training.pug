@@ -1,0 +1,10 @@
+#training
+include ../header/header.pug
+.column(span="row")
+.content
+  each training in data.training.training
+    .training__item
+      .title-training=training.muscle
+      .descriere=training.description
+      button.clas(type='button' onclick="#contactus").title-diet=training.muscle
+

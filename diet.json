@@ -1,0 +1,19 @@
+{
+  "titlediet": [
+  {
+  "title":"Keto Diet",
+  "description":"KetoDiet it s a new diet on the market what will change all you know about diet.In this diet you will have a high level of fat and low level of carbs and because of those after 3 weeks of diet you will start to loose fat",
+  "image":"logo.png"
+  },
+  {
+  "title":"Dukan Diet",
+  "description":"Dukan Diet it s was implemented my Dr.Dukan from Franch and he think we can give a restart of body eating different.On dukan you will gona have more protein and many step ",
+  "image":"logo.png"
+  },
+  {
+    "title":"Proteic Diet",
+    "description":"Proteic Diet it is a diet were you will need to eat plenty protein and because of that you body will start to break the fat and use as fuel for body",
+    "image":"logo.png"
+  }
+]
+}

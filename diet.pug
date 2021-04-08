@@ -1,0 +1,12 @@
+#diet
+include ../header/header.pug
+.column(span="row")
+.content
+  each titlediet in data.diet.titlediet
+    .diet__item
+      .title-diet=titlediet.title
+      img.logo__image(
+        src=`${baseUrl}asset/image/${titlediet.image}`
+        width="50px")
+      .descriere=titlediet.description
+

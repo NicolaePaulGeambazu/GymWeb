@@ -1,0 +1,7 @@
+#aboutus
+include ../header/header.pug
+.column(span="row")
+.content
+  each title in data['about-us'].title
+    .about__item
+      .description=title.description
